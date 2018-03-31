@@ -19,4 +19,4 @@ sites dynamiques : ils peuvent créer à l'aide d'autre langagues à part le HTML e
 l'objectif du cour est d'apprendre à faire :
 des forums  , compteur de visiteurs qui visite le site, envoyer une lettre à tt les utilisateurs du site...
 
-
+###################  tres bien bonne continuation    ########################################
