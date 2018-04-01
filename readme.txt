@@ -34,9 +34,13 @@ pour demander au serveur de lui délivrer le site
 les serveurs : se sont les ordinateurs puissants qui stockent et  fournissent les site web ( page web ) demandées par les clients,ils travaillent sans
   arréts 24h/24h, 7jours/7jours .sans l'intervention humaine .
 
-le fonctionnement entre client-serveur se différent celon le typoe du site web (statique ou dynamique ) .
+le fonctionnement/Transfére entre client-serveur se différent celon le type du site web (statique ou dynamique ) .
+1.Transfertavec un site statique :
+pour les sites web statiques les choses sont plus simples ils se basent sur une demande à voir le site au serveur, ensuite ce dernier ( le serveur ) répond le client
+en lui délivrant la page wéb/site statique sans la modifier .
 
-pour les sites web statiques les chosessont plus simples ils se basent sur une demande à voir le site au serveur, ensuite ce dernier ( le serveur ) répond le client
-en lui délivrant la page wéb/site .
+2.Transfert avec un site dynamique:
 
+1) demande de la page web dynamique  par le client ,2) géneration de la page web par le serveur ce qui rend celle-ci changeable= dynamique
+ à chaque instant ( à chaque nouveau génertion ),3)envoie de la page web dynamique  par le serveurs.
 
