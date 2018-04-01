@@ -20,3 +20,23 @@ l'objectif du cour est d'apprendre à faire :
 des forums  , compteur de visiteurs qui visite le site, envoyer une lettre à tt les utilisateurs du site...
 
 ###################  tres bien bonne continuation    ########################################
+
+
+01/04/2018 :
+
+Définition d Internet :
+l internet est un reseau composé d'ordinateurs qui se partagent en 2 categories :
+
+les clients : se sont les ordinateurs des internautes ( les visiteurs des sites web) qui tape en realité l'adresse du site web dans le navigateur
+pour demander au serveur de lui délivrer le site 
+
+
+les serveurs : se sont les ordinateurs puissants qui stockent et  fournissent les site web ( page web ) demandées par les clients,ils travaillent sans
+  arréts 24h/24h, 7jours/7jours .sans l'intervention humaine .
+
+le fonctionnement entre client-serveur se différent celon le typoe du site web (statique ou dynamique ) .
+
+pour les sites web statiques les chosessont plus simples ils se basent sur une demande à voir le site au serveur, ensuite ce dernier ( le serveur ) répond le client
+en lui délivrant la page wéb/site .
+
+
