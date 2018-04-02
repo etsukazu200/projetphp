@@ -42,5 +42,61 @@ en lui délivrant la page wéb/site statique sans la modifier .
 2.Transfert avec un site dynamique:
 
 1) demande de la page web dynamique  par le client ,2) géneration de la page web par le serveur ce qui rend celle-ci changeable= dynamique
+
  à chaque instant ( à chaque nouveau génertion ),3)envoie de la page web dynamique  par le serveurs.
+
+02/04/2018 :
+
+lorsque le serveur envoie la page web au client en réalité il envoie le code source en html et css .
+
+pour un site statique :on a le HTML et CSS .
+
+
+html : est un langague à la base de la creation des sites web il contient des balises .
+exple : pour écrire un texte/paragraphe on fait <p> jilali  </p>
+
+
+css : c 'est un langague de mise en forme du site web il s'occupe de la mise en page et choix des couleurs 
+et la taille  du menu .
+
+
+pour un site dynamique : on ajoute le php et MYSQL:
+
+php : est un langague que seulment les serveurs le comprennent et qu'il génere les pages web envoyer aux clients
+
+exmple :  afficher le nombre de visiteur : <php? "vous étes le visiteur n° ".&nombre_visiteur;? >
+
+
+MYSQL:  c'est un systéme de gestion de bases de données (SGBD), il aide à stocker/enregistrer et orgniser touts les données,listes des visiteurs,les msgs,les commentaires ayant 
+  apparues dans le site,
+SQL: le langague qui permet de communiquer avec la base de données.
+
+le php et MYSQL doivent étre combiner pour que les choses marche bien . 
+
+le php génere le HTML qui sera envoyé au client qui est  incapable de comprendre le php raison de plus pour lui envoyer le html ( et aussi le css rarment ).
+
+
+ plusiers combinaisons sont possible:
+
+le php peut étre combiné avec d'autre systéme de gestion de base de données tel que "oracle" et "postgreSQL" 
+de méme MYSQL peut étre utilisé avec d'autre langague ( java;phyton,ruby ).
+
+
+Les concurents de php :
+
+
+ruby on rails : c 'est un framework permet de créer des sites dynamiques rapidement il fonctionne avec le langague ruby.
+
+Django : il est similire à ruby on rails , mais  utilise le langague python.
+
+
+
+
+
+
+
+ 
+
+
+
 
