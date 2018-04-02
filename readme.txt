@@ -84,11 +84,23 @@ de méme MYSQL peut étre utilisé avec d'autre langague ( java;phyton,ruby ).
 
 Les concurents de php :
 
+ASP.NET:conçu pr microsoft il exploite un framework ( des bibliothéques qui réservent des services aux dévloppeurs qu'il sont habituller de travailler 
 
+avec le#c
 ruby on rails : c 'est un framework permet de créer des sites dynamiques rapidement il fonctionne avec le langague ruby.
 
 Django : il est similire à ruby on rails , mais  utilise le langague python.
 
+java et jsp ( java server page ): plus professionnel il est long  pour faire un projet avec .
+
+
+les concurents de MYSQL :
+
+
+Oracle :trops cher , plus puissant.
+
+microsoft SQL server : payant , utilisé souvent en combinaison avec ASP.NET.
+postgreSQL : similaire à MYSQL avec plus d'option ( gratuit ).
 
 
 
