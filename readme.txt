@@ -102,6 +102,15 @@ Oracle :trops cher , plus puissant.
 microsoft SQL server : payant , utilisé souvent en combinaison avec ASP.NET.
 postgreSQL : similaire à MYSQL avec plus d'option ( gratuit ).
 
+###########################################  
+	
+	la tu as fait du bon travail. du coup je te demande de lire jusque à la page 33 , pour avoir une idée sur l'envirenement de travail
+	
+	j'aimerai bien si tu peut terminer cette partie demain .
+	
+	bonne courage. :*
+	
+###########################################
 
 
 
