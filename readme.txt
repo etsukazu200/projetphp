@@ -102,6 +102,31 @@ Oracle :trops cher , plus puissant.
 microsoft SQL server : payant , utilisé souvent en combinaison avec ASP.NET.
 postgreSQL : similaire à MYSQL avec plus d'option ( gratuit ).
 
+03/04/2018:
+
+Le serveur est le seul qui puisse exécuter/lire le php ,donc ce cas on est oubliger de transformer notre ordinateur
+en serveur à travers l'installtion des logiciels que le serveur utilise.
+
+pour un site statique :
+
+on a besoin que d'un :
+1) éditeur de texte : un progrmme tel que le bloc-notes;note pade++ ( contient le code ).
+2)un navigateur web : afin de tester notre page web,tel que mozilla firefox,internet explorer,google crome,dont il faut tester notre site web sur tout
+les navigateurs .
+
+Avec un site dynamique :
+
+l'éditeur et le navigateur n'est pas suffisant dans ce cas,or on aura besoin d'autre logiciels/programmes  pour que l'ordinateur puisse se comporter comme un serveur pour lire le php 
+ tel que:
+
+Apache :c'est un serveur web qui est charger de délivrer les pages web aux visiteur, il ne gére que le HTML, dans ce cas il faut lui compléter avec d'autr programme tel que le php.
+
+
+php:c'est un plug-in pour Apache,qu'il lui permet de traiter des pages web dynamique en php.
+
+MYSQL:c'un logociel de géstion de base de données, permet d'enregistrer des données de maniére organisé.
+
+
 
 
 
