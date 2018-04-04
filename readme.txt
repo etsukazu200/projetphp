@@ -155,7 +155,7 @@ root : et le compte administrateur de la machine qui a notamment le droit
  d'installer les programmes.
 
 
-il exixte des éditeur convenable pour chaque systéme d 'éxploitation :
+il exixte des éditeurs convenable pour chaque systéme d 'éxploitation :
 
 sous windows : on recommande notepad++ ( gratuit ).
 
