@@ -102,6 +102,7 @@ Oracle :trops cher , plus puissant.
 microsoft SQL server : payant , utilisé souvent en combinaison avec ASP.NET.
 postgreSQL : similaire à MYSQL avec plus d'option ( gratuit ).
 
+<<<<<<< HEAD
 03/04/2018:
 
 Le serveur est le seul qui puisse exécuter/lire le php ,donc ce cas on est oubliger de transformer notre ordinateur
@@ -127,7 +128,31 @@ php:c'est un plug-in pour Apache,qu'il lui permet de traiter des pages web dynam
 MYSQL:c'un logociel de géstion de base de données, permet d'enregistrer des données de maniére organisé.
 
 
+=======
+###########################################  
+	
+	la tu as fait du bon travail. du coup je te demande de lire jusque à la page 33 , pour avoir une idée sur l'envirenement de travail
+	
+	j'aimerai bien si tu peut terminer cette partie demain .
+	
+	bonne courage. :*
+	
+###########################################
+>>>>>>> 6a80aeab929d3cf3fdfd3857d4f7f7997e33a0ed
 
+
+04/04/2018:
+
+ii ya plusiére programmes ayant les packs qui contient ( le serveur Apache ,php et MYSQL) chacun est compatible à un systéme 
+d'exploitation déterminé.
+sous windows :on utilise le programme wamp 
+sous mac os x: on utilise le programme mamp 
+
+
+sous linux = on utilise le programme xampp
+
+root : et le compte administrateur de la machine qui a notamment le droit
+ d'installer les programmes.
 
 
 
