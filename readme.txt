@@ -169,8 +169,8 @@ sous linux : éditeur graphique / GEDIT.
 
 ######################################
 
-cette partie touche à sa fin , il a permet de decouvrir l'envirenemont de php. 
-l'etape suivante est de decouvrir comment ecrie notre premier code en php , l'execute et voir le resultat.
+cette partie touche à sa fin , il a permet de decouvrir l'environement de php. 
+l'etape suivante est de decouvrir comment ecrire notre premier code en php , l'execute et voir le resultat.
 
    
 ######################################
