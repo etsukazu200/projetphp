@@ -1,9 +1,8 @@
 
 
- <!DOCTYPE html>
 
-<html>
-<nav id= "menu">        
+
+<nav id="menu">        
     <div class="element_ menu">
         <h3> T i t r e  m e n u </h3>
         <ul>
@@ -14,4 +13,3 @@
     </div>    
 </nav>
 
-</html>

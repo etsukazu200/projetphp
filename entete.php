@@ -1,13 +1,17 @@
 
 
- <!DOCTYPE html>
 
-<html>
+    <?php 
+	
+	
 
-
-<!--  L ' e n - t ê t e  -->
    
     <header>
       
-    </header>
-  </html>
+
+ </header> 
+ 
+	?>
+
+
+

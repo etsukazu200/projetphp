@@ -8,9 +8,11 @@
 	 <body>
 
     
-    <?php include("entete.php"); ?>
+    
    
-    <?php include("menus.php"); ?>
+    <?php include("menus.php");
+
+	?>
    
     <!-- Le corps -->
    
@@ -26,8 +28,11 @@ p a r l e r  d e . . .  e u h . . .  J e  c h e r c h e  e n c o r e  u n  p e u
     </div>
    
     <!-- L e  p i e d  d e  p a g e  -->
+	
    
-    <?php include("pied_de_ page.php"); ?>
+    <?php include("pied _ de _ page.php");
+
+	?>
    
     </body>
 </html>
