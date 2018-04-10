@@ -1,18 +1,49 @@
-< ! D O C T Y P E  h t m l  P U B L I C  " - / / W 3 C / / D T D  X H T M L  1 . 0  S t r i c t / / E N "
-" h t t p : / / w w w . w 3 . o r g / T R / x h t m l 1 / D T D / x h t m l 1 - s t r i c t . d t d " >
-< h t m l  x m l n s = " h t t p : / / w w w . w 3 . o r g / 1 9 9 9 / x h t m l "  x m l : l a n g = " f r "  l a n g = 
-    < h e a d >
-        < t i t l e > N o t r e  p r e m i è r e  i n s t r u c t i o n  :  e c h o < / t i t l e >
-        < m e t a  h t t p - e q u i v = " C o n t e n t - T y p e "  c o n t e n t = " t e x t / h t m l ;
-c h a r s e t = i s o - 8 8 5 9 - 1 "  / >
-    < / h e a d >
-    < b o d y >
-        < h 2 > A f f i c h a g e  d e  t e x t e  a v e c  P H P < / h 2 >
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Mon super site</title>
+    </head>
+	<body>
+<!--  L ' e n - tête -->
+
+<header>
+  
+</header>
+
+<!-- Le menu -->
+<nav id="menu">        
+    <div class="element_menu" 
+        <h3>Titre menu</h3>
+        <ul>
+               
+            <li><a href="page1.html">Lien</a ></li>
+            <li><a href="page2.html">Lien</a ></li>
+            <li><a href="page3.html">Lien</a ></li>
+        </ul>
+    </div>    
+</nav>
+
+<!-- Le corps -->
+   
+    <div id="corps">
+        <h1>Mon super site</h1>
        
-        < p >
- C e t t e  l i g n e  a  é t é  é c r i t e  e n t i è r e m e n t  e n  H T M L . < b r  / >
-            < ? p h p  e c h o  " C e l l e - c i  a  é t é  é c r i t e  e n t i è r e m e n t  e n  P H P . " ;
-? >
-        < / p >
-    < / b o d y >
-< / h t m l >
+        <p>
+            B i e n v e n u e  s u r  m o n  s u p e r  s i t e !<br/>
+            V o u s  a l l e z  a d o r e r  i c i ,  c ' e s t  u n  s i t e  g é n i a l  q u i  v a 
+p a r l e r  d e . . .  e u h . . .  J e  c h e r c h e  e n c o r e  u n  p e u  l e  t h è m e  d e  m o n  s i t e . 
+: - D
+        </p>
+    </div>
+   
+    <!-- Le pie d d e p a g e  -->
+   
+    <footer id="pied_de_ page">
+        <p> C o p y r i g h t  m o i ,  t o u s  d r o i t s  r é s e r v é s </p>
+		 </footer>
+   
+    </body>
+</html>

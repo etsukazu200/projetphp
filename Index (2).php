@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 
 <html>
     <head>
@@ -32,7 +32,7 @@
         <h1> M o n  s u p e r  s i t e </h1>
        
         <p>
-            B i e n v e n u e  s u r  m o n  s u p e r  s i t e  ! < b r  / >
+            B i e n v e n u e  s u r  m o n  s u p e r  s i t e  ! <br/>
             V o u s  a l l e z  a d o r e r  i c i ,  c ' e s t  u n  s i t e  g é n i a l  q u i  v a 
 p a r l e r  d e . . .  e u h . . .  J e  c h e r c h e  e n c o r e  u n  p e u  l e  t h è m e  d e  m o n  s i t e . 
 : - D
@@ -41,7 +41,7 @@ p a r l e r  d e . . .  e u h . . .  J e  c h e r c h e  e n c o r e  u n  p e u
    
     <!-- L e  p i e d  d e  p a g e  -->
    
-    <footer id ="p i e d _ d e _ p a g e">
+    <footer id="p i e d _ d e _ p a g e">
         <p> C o p y r i g h t  m o i ,  t o u s  d r o i t s  r é s e r v é s </p>
     </footer>
    
